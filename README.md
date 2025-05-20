@@ -11,8 +11,6 @@ I am a **frontend-focused fullstack developer** with over 6 years of experience 
 ### 🌟 [Juny](https://chromewebstore.google.com/detail/juny/nogdffjcfolhbeemcidennefecbcekfo)
 A **Chrome Extension** designed to enhance productivity and simplify workflows. Built with a focus on user experience and seamless performance.
 
-### 🌟 [MyK-Invoice](https://myk-invoice.com)
-An **invoice management system** publicly available for businesses to streamline their invoicing processes. Designed for scalability, responsiveness, and ease of use.
 
 ---
 
